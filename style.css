@@ -5,12 +5,15 @@
 }
 
 body {
-  background-image: url(img/background.png);
+  background-image:  linear-gradient(black 3%, #04846c 9%, #84f5e7 9%, #04846c 9%,black 27%);
   background-repeat: no-repeat;
   background-size: 100%;
 }
 
 .container {
+  background-image: url(img/background.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
   width: 100vw;
   height: 100vh;
   display: flex;
